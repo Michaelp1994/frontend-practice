@@ -10,10 +10,8 @@ You can then visit the app in-browser; it defaults to http://localhost:3000.
 Stack used:
 
 - Typescript
-- Figma
 - Vite
 - React V18
-- React Router
-- Redux
-- Recharts
 - Styled Components
+- ESLint
+- Prettier
