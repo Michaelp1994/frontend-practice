@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Account",
+    "imageSrc": "https://lh3.googleusercontent.com/ogw/ADea4I7pB2ZOizE2e8u6lAUciIJ2Q004cxTk1xH4roDG=s128-b16-cc-rp-mo"
+  },
+  {
+    "name": "Search",
+    "imageSrc": "https://w7.pngwing.com/pngs/882/225/png-transparent-google-logo-google-logo-google-search-icon-google-text-logo-business.png"
+  },
+  {
+    "name": "Maps",
+    "imageSrc": "https://lh3.googleusercontent.com/V0Lu6YzAVaCVcjSJ_4Qb0mR_idw-GApETGbkodvDKTH-rpDvHuD6J84jshR_FvXdl5mJxqbIHVdebYCCbQMJNxIxRaIHYFSq6z7laA"
+  },
+  {
+    "name": "Youtube",
+    "imageSrc": "https://lh3.googleusercontent.com/3_OFn2skqHXk-UQ-9RUdNrDl_HQJrMCxks5teQcUrF_bOSeDG1hD8j83FeD31W8hASZCvubzsGfumuJq8kvvSAq03wY87RZ7Otx_DF4"
+  },
+  {
+    "name": "Play",
+    "imageSrc": "https://lh3.googleusercontent.com/BwoectM66uur7vsy6UNtarl_XM67Uu7qUakYNj8nh2OuwczsPmwMSLy0BJ6YpN3IXXCytOJHWeVgXkY4NomrvVMgwLVqLjgsaR7Nng"
+  },
+  {
+    "name": "News",
+    "imageSrc": "https://lh3.googleusercontent.com/9agKA1CG--ihx80qoPwq8xVFZ0i0_nEyLpXlcf8juPbFXe13GhUBR7Y5xOO3LVfnmM06OtrWw086uFlQ9s5jNPlvXJNBQViCvB4L4Q"
+  },
+  {
+    "name": "Gmail",
+    "imageSrc": "https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg"
+  },
+  {
+    "name": "Meet",
+    "imageSrc": "https://lh3.googleusercontent.com/n3Eac1gPc5OTEh7Go1jemICnooceXtfs4VZW-4CPukCUi_doFsN9Q8njidksZ4KIFyPJVYtR7ZhLL16VoUJSPE1j74iTXT2xwCqq"
+  },
+  {
+    "name": "Chat",
+    "imageSrc": "https://lh3.googleusercontent.com/hK3UrUgS8y0fmfFlxr7hQFdKdkufJQ5aDWjB9Ft2hTLkVUaZTWTH_w5AvXU3C4zko7w1RVLEUQf0DnQ_id9c32IZ6upSLMVfhSWnJg"
+  },
+  {
+    "name": "Contacts",
+    "imageSrc": "https://pngset.com/images/google-contacts-icon-google-contacts-icon-disk-dvd-symbol-number-transparent-png-2734641.png"
+  },
+  {
+    "name": "Drive",
+    "imageSrc": "https://lh3.googleusercontent.com/rCwHBRBJV4wFiEIN_Mlboj94_TGJxyJtBh-MBFL4y1aZdO4hb7_Uc_PpXRyAoN7O9m_Zc1wSyp3H1vsnb829QE7t9KyGNJY9A1a3QQ"
+  },
+  {
+    "name": "Calendar",
+    "imageSrc": "https://lh3.googleusercontent.com/K0vgpnn9Vour8ByU3htR3ou5Cx70Me-lW_51VEAIS5dfzXCQ0otXakVuPiQVc0V6qcf9aP_vkVul59airN27m3mttf4zQ1TPv4MVrw"
+  },
+  {
+    "name": "Translate",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png"
+  },
+  {
+    "name": "Photos",
+    "imageSrc": "https://lh3.googleusercontent.com/1_fX4sgnF_BnHbc3m7z4_yPnQUoKX_MaphaKOUokyGVCvMW3q8cwyCpWEYnhqsq6H9e9bYSAiV3hVKvAOpTRKeEVHJblk6GxxbKUZQ"
+  },
+  {
+    "name": "Duo",
+    "imageSrc": "https://lh3.googleusercontent.com/GjNHryPo7CDf0S6k0xZJdqGuyM0FpR5-_YbN1ZMiJ9HlrATxMrbn6P48SC1U6yTc8FkhIT7WX5qGeq59I5_FIXawoi-nKNIVbbydcg"
+  },
+  {
+    "name": "Shopping",
+    "imageSrc": "https://lh3.googleusercontent.com/hYFXJydZpMVAqc1IP6f-YZAOuaC2ZyBgo0nJDRc6LUNw3taixW4a5AE3ECaD11NktdwMS8NMQ1sz6h-EcQymYg1UUgu_Zh_qyW59KQ"
+  }
+]

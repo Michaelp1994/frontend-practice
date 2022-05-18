@@ -1,4 +1,4 @@
-# Frontend Practice Examples
+# Frontend Practice
 
 The project uses Vite as a development server. To demo it, run the following terminal commands:
 
